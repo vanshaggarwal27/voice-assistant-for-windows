@@ -1,0 +1,21 @@
+typing
+speech_recognition
+pyaudio
+pyttsx3
+PIL
+pyautogui
+img2pdf
+pytube
+webbrowser
+ctypes
+winshell
+re
+pathlib
+platform
+socket
+spotipy
+qrcode
+import to_pdf_mod as t
+tempfile
+PyQt5
+PyQt6
