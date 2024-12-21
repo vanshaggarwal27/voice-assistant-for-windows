@@ -628,8 +628,8 @@ if is_connected():
                         # Extract the song name from the user input
                         song_name1 = extract_song_name(command)
                     # Replace these with your Spotify app credentials
-                    CLIENT_ID = 'ed7aa7b0458e48f1b12765b17e146536'
-                    CLIENT_SECRET = '133b96eb5e7e4eeca8b11a2d8a0b1760'
+                    CLIENT_ID = 'your api keys'
+                    CLIENT_SECRET = 'your api keys'
                     REDIRECT_URI = 'http://localhost:8888/callback'  # Make sure this URI is added in your Spotify app settings
 
                     # Scope for searching tracks
